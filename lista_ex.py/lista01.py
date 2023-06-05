@@ -1,7 +1,7 @@
 #Esta primeira lista de exercícios é sobre estrutura sequencial 
 #Faça um programa que converta metros para centímetros 
 
-print("Vamor converter metros para centímetros")
+print("Vamos converter metros para centímetros")
 num = float(input("Digite um valor em metros:")) 
 con = num * 100  
 print(f"O valor em metros digitado foi {num}m, convertendo fica {con}cm.") 
